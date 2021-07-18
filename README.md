@@ -1,5 +1,7 @@
 # Login_solution
 This is a login solution for any app. It uses Firebase authentication.
+<br>
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 * It has Firebase Integration using Email and Password
 * Smart password strength calculator 
