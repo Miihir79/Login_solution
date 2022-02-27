@@ -1,7 +1,14 @@
 # Login_solution
+<p>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+  [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+</p>
+
+### About
 This is a login solution for any app. It uses Firebase authentication.
 <br>
-[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 * It has Firebase Integration using Email and Password
 * Smart password strength calculator 
